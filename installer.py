@@ -7,7 +7,7 @@ class PythonToExeConverter:
     def __init__(self, root):
         self.root = root
         self.root.title("Python to EXE Converter")
-
+        root.resizable(0,0)
         # Create widgets
         self.label_file = tk.Label(root, text="Select a Python file:")
         self.label_file.pack(pady=10)
