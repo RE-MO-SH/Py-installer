@@ -3,7 +3,7 @@ convert python code to *.exe for windows
 
 A GUI python code for converting python code to *.exe for windows in 3 steps.
 
-1- select oython code.
+1- select Python code.
 
 2- select icon file (optional).
 
