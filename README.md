@@ -11,7 +11,7 @@ A GUI python code for converting python code to *.exe for windows in 3 steps.
 
 After the processing is finished, message contained output file is shown.
 
-for install libraries:
+***NOTE: for install libraries:
 
 pip install pyinstaller
 
